@@ -1,0 +1,9 @@
+﻿W sieci pojawia się coraz więcej doniesień o tym, że podczas instalacji Service Pack 1 dla Windows 7 i Server 2008 R2 może dojść do poważnych problemów, w następstwie których system nie będzie mógł się się uruchomić.
+
+Wszystko wskazuje na to, że trudności dotyczą komputerów, które pobrały aktualizację za pośrednictwem WSUS (Windows Server Update Services) i są przy tym zarejestrowane w konkretnej domenie.
+
+Problem
+
+W wyniku usterek podczas uruchamiania system komunikuje błąd o kodzie 0xC0000034, po którym na ekranie pojawiają się różne kolumny znaków, a komputer de facto ulega zawieszeniu.
+
+Microsoft potwierdził już istnienie tego problemu.
